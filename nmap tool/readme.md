@@ -64,7 +64,7 @@ Download Nmap from:
 Run the tool:
 
 ```bash
-python3 nmap tool.py
+python3 nmap_tool.py
 ```
 
 Enter target:
@@ -108,7 +108,7 @@ scan_report_example.com.json
 ```bash
 nmap tool/
 │
-├── nmap tool.py
+├── nmap_tool.py
 ├── reports/
 ├── README.md
 └── requirements.txt
