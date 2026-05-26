@@ -23,41 +23,16 @@ This project automates multiple advanced Nmap scans with multithreading and expo
 
 # Screenshot
 
-```bash
-============================================================
- Advanced Nmap Automation Tool
-============================================================
+<img width="1874" height="770" alt="nmap-tool" src="https://github.com/user-attachments/assets/f107546e-9fb8-4cda-ace3-4817286ad4fa" />
 
-Enter Target IP or Domain: scanme.nmap.org
-
-[+] Running Fast Scan...
-[+] Running Service Version Detection...
-[+] Running OS Detection...
-[+] Running Aggressive Scan...
-[+] Running Vulnerability Scan...
-
-[Fast Scan] scanme.nmap.org:22 ssh OpenSSH 8.2
-[Service Version Detection] scanme.nmap.org:80 http Apache httpd
-[OS Detection] Linux 5.X
-[Vulnerability Scan] NSE vulnerabilities checked
-
-[+] TXT Report Saved: scan_report_scanme.nmap.org.txt
-[+] JSON Report Saved: scan_report_scanme.nmap.org.json
-
-[+] All Scans Completed Successfully
-```
-
----
 
 # Installation
-
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/advanced-nmap-tool.git
-cd advanced-nmap-tool
+git clone https://github.com/YOUR_USERNAME/cybersecurity-projects.git
+cd cybersecurity-projects/nmap\ tool
 ```
-
 ---
 
 # Requirements
@@ -89,7 +64,7 @@ Download Nmap from:
 Run the tool:
 
 ```bash
-python3 advanced_nmap_tool.py
+python3 nmap tool.py
 ```
 
 Enter target:
@@ -131,9 +106,9 @@ scan_report_example.com.json
 # Project Structure
 
 ```bash
-advanced-nmap-tool/
+nmap tool/
 │
-├── advanced_nmap_tool.py
+├── nmap tool.py
 ├── reports/
 ├── README.md
 └── requirements.txt
