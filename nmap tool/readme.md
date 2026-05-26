@@ -31,7 +31,7 @@ This project automates multiple advanced Nmap scans with multithreading and expo
 
 ```bash
 git clone https://github.com/yourusername/cybersecurity-projects.git
-cd cybersecurity-projects/"nmap tool"
+cd cybersecurity-projects/nmap tool
 ```
 ---
 
