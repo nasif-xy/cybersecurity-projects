@@ -17,26 +17,7 @@ A simple Python-based web vulnerability scanner designed for cybersecurity learn
 ---
 
 # Screenshot
-
-```bash
-[+] Starting Scan on target.com
-
-[+] Checking Security Headers
-[-] Missing X-Frame-Options
-[-] Missing Content-Security-Policy
-
-[+] Testing SQL Injection
-[Potential SQLi] Parameter vulnerable: id
-
-[+] Testing XSS
-[Potential XSS] Reflected payload detected
-
-[+] Discovering Admin Panels
-[FOUND] /admin
-[FOUND] /login
-
-[+] Scan Completed
-```
+<img width="1877" height="828" alt="websecuri" src="https://github.com/user-attachments/assets/5da67792-c1e7-4fbf-9b1f-45cd05be601e" />
 
 ---
 
@@ -45,8 +26,8 @@ A simple Python-based web vulnerability scanner designed for cybersecurity learn
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/web-vulnerability-scanner.git
-cd web-vulnerability-scanner
+git clone https://github.com/nasif-xy/cybersecurity-projects.git
+cd cybersecurity-projects/websecurity
 ```
 
 ## Install Requirements
@@ -60,13 +41,14 @@ pip install requests beautifulsoup4
 # Usage
 
 ```bash
-python3 scanner.py
+python3 web_security_test.py
 ```
 
 Enter target URL:
 
 ```bash
-http://example.com
+<img width="1877" height="828" alt="websecuri" src="https://github.com/user-attachments/assets/9458fa53-813e-4844-b420-a80338ba62ea" /><img width="1877" height="828" alt="websecuri" src="https://github.com/user-attachments/assets/09c60683-0e5e-482d-828b-2932f7675bfe" />
+
 ```
 
 ---
@@ -86,15 +68,9 @@ http://example.com
 # Project Structure
 
 ```bash
-web-vulnerability-scanner/
+websecurity/
 │
-├── scanner.py
-├── payloads/
-│   ├── sqli.txt
-│   └── xss.txt
-├── wordlists/
-│   └── admin-panels.txt
-├── reports/
+├── web_security_test.py
 └── README.md
 ```
 
