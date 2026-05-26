@@ -45,11 +45,10 @@ python3 web_security_test.py
 ```
 
 Enter target URL:
-
 ```bash
-<img width="1877" height="828" alt="websecuri" src="https://github.com/user-attachments/assets/9458fa53-813e-4844-b420-a80338ba62ea" /><img width="1877" height="828" alt="websecuri" src="https://github.com/user-attachments/assets/09c60683-0e5e-482d-828b-2932f7675bfe" />
-
+example.com
 ```
+
 
 ---
 
