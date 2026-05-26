@@ -15,31 +15,7 @@ A simple Python-based reconnaissance automation tool for cybersecurity learning 
 
 # Screenshot
 
-```bash
-[+] Starting Recon on example.com
-
-[+] IP Address: 93.184.216.34
-
-[+] WHOIS Information
-...
-
-[+] DNS Records
-...
-
-[+] Subdomains from crt.sh
-api.example.com
-mail.example.com
-
-[+] Scanning Common Ports
-[OPEN] Port 80
-[OPEN] Port 443
-
-[+] HTTP Headers
-Server: nginx
-Content-Type: text/html
-
-[+] Recon Completed
-```
+<img width="1877" height="588" alt="RECON" src="https://github.com/user-attachments/assets/59a95128-f458-4c07-b2a2-66bd2a8c1571" />
 
 ---
 
@@ -48,8 +24,8 @@ Content-Type: text/html
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/recon-tool.git
-cd recon-tool
+git clone https://github.com/yourusername/cybersecurity-projects.git
+cd cybersecurity-projects/recon
 ```
 
 ## Install Requirements
@@ -63,7 +39,7 @@ pip install requests
 # Usage
 
 ```bash
-python3 recon.py
+python3 recon_tool.py
 ```
 
 Enter target domain:
