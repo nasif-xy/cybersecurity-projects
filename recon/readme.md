@@ -24,7 +24,7 @@ A simple Python-based reconnaissance automation tool for cybersecurity learning 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/cybersecurity-projects.git
+git clone https://github.com/nasif-xy/cybersecurity-projects.git
 cd cybersecurity-projects/recon
 ```
 
