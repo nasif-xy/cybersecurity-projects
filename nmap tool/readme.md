@@ -109,9 +109,8 @@ scan_report_example.com.json
 nmap tool/
 │
 ├── nmap_tool.py
-├── reports/
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
